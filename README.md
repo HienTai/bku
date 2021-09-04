@@ -1,2 +1,4 @@
 # bku
-Học tập
+Học tập, phát triển
+
+# Update content of Readme
