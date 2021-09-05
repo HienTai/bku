@@ -1,4 +1,5 @@
-
+#in dong chu Hello World
 print("Hello World")
 
-print("day là chuoi comment")
+#in dong chu day la chuoi comment
+print("day la chuoi comment")
